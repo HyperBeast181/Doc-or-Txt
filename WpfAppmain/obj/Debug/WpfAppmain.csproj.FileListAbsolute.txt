@@ -1,0 +1,16 @@
+C:\Users\serge\source\repos\WpfAppmain\bin\Debug\WpfAppmain.exe.config
+C:\Users\serge\source\repos\WpfAppmain\bin\Debug\WpfAppmain.exe
+C:\Users\serge\source\repos\WpfAppmain\bin\Debug\WpfAppmain.pdb
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.csproj.AssemblyReference.cache
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.csproj.SuggestedBindingRedirects.cache
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\MainWindow.g.cs
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\App.g.cs
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain_MarkupCompile.cache
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain_MarkupCompile.lref
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\MainWindow.baml
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.g.resources
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.Properties.Resources.resources
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.csproj.GenerateResource.cache
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.csproj.CoreCompileInputs.cache
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.exe
+C:\Users\serge\source\repos\WpfAppmain\obj\Debug\WpfAppmain.pdb
